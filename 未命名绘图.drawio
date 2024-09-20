@@ -307,6 +307,9 @@
         <mxCell id="YiPRjAnLSIyRAGcVfHTw-130" value="洪崖煤业公司组织机构图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=69;" vertex="1" parent="1">
           <mxGeometry x="1836.5" y="180" width="781" height="99" as="geometry" />
         </mxCell>
+        <mxCell id="YiPRjAnLSIyRAGcVfHTw-131" value="地质副总工程师" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="4137" y="1485" width="200" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
